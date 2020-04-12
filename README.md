@@ -1,6 +1,5 @@
-Study Repository
 
-Repositório de estudo.
+REPOSITÓRIO DE ESTUDO.
 Workshop HTML, CSS e JS - Rocketseat
 
 Dia 01
