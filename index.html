@@ -26,6 +26,9 @@
                 color:#25282B;
                 text-decoration: none;
             }
+            .hide{
+                display: none;
+            }
             
         </style>
     </head>
@@ -47,6 +50,16 @@
             Com ❤️ <a href="https://rocketseat.com.br"> Rocketset</a>
         </p>
     
-    
+    <script>
+        document
+        .querySelector("button.fat")
+        .addEventListener("click", function(){
+            document
+            .querySelector("#footer")
+            .classList
+            .toggle("hide")
+        })
+
+    </script>
     </body>
 </html>
