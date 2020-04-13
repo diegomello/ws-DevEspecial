@@ -1,8 +1,8 @@
 
 # Casa Criativa
 
-Site desenvolvido no Workshop da Rocketseat
-Documentação em atualização de acordo com o andamento do Workshop
+- Site desenvolvido no Workshop da Rocketseat
+- Documentação em atualização de acordo com o andamento do Workshop
 
 ## Summary
 
