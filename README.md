@@ -87,9 +87,9 @@ repository](https://github.com/PurpleBooth/a-good-readme-template/tags).
   - **Diego Mello** - 
     [diegomello](https://github.com/diegomello)
 
-See also the list of
-[contributors](https://github.com/PurpleBooth/a-good-readme-template/contributors)
-who participated in this project.
+Veja também
+[contributors](https://github.com/diegomello/ws-DevEspecial/contributors)
+Pessoas que contribuíram nesse projeto.
 
 ## License
 
