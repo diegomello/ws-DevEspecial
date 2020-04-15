@@ -1,8 +1,8 @@
 
 # Casa Criativa
 
-- Site desenvolvido no Workshop da Rocketseat
-- Documentação em atualização de acordo com o andamento do Workshop
+- Built on Rockeseat Workshop
+- The document will be updated as the project evolves
 
 ## Summary
 
@@ -24,9 +24,9 @@ for notes on how to deploy the project on a live system.
 
 ### Prerequisites
 
-What things you need to install the software and how to install them
+Do you need a simple text editor and a web browser to run this project, and need to have a Node.Js 
 
-    Give examples
+    VS Code, Sublime Text, Notepad ++ ... Chrome, Edge, Firefox
 
 ### Installing
 
@@ -76,20 +76,14 @@ Add additional notes about how to deploy this on a live system
 Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on our code
 of conduct, and the process for submitting pull requests to us.
 
-## Versioning
-
-We use [SemVer](http://semver.org/) for versioning. For the versions
-available, see the [tags on this
-repository](https://github.com/PurpleBooth/a-good-readme-template/tags).
-
 ## Authors
 
-  - **Diego Mello** - 
+  - **Diego Mello** - CEO - Thinking Tecnologia Inteligente
     [diegomello](https://github.com/diegomello)
 
-Veja também
+See also:
 [contributors](https://github.com/diegomello/ws-DevEspecial/contributors)
-Pessoas que contribuíram nesse projeto.
+people who contributed to the project.
 
 ## License
 
