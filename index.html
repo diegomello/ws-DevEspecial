@@ -3,6 +3,7 @@
     <head>
         <meta charset="UTF-8">
         <title>Casa Criativa</title>
+        <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;500;600;700;800;900&display=swap" rel="stylesheet">
         <link rel="stylesheet" href="style.css">
         
     </head>
@@ -25,7 +26,7 @@
                     </p>
                 </main>
                 <section id="buttons">
-                    <button>+ Adicionar Ideia</button>
+                    <button onclick="onOff()">+ Adicionar Ideia</button>
                     <button class="fat">Ver Ideias</button>
                 </section>
                 <footer>
@@ -66,8 +67,36 @@
                         <a href="#">Ir para a Ideia</a>
                     </div>
                 </div>
-            </section>
-                
+            </section>            
+    </div>
+    <div id="modal" class="hide">
+        <div class="content">
+            <h1>Nova Ideia</h1>
+            <form action="">
+                <div class="input-wrapper">
+                    <label for="title">Título da Ideia</label>
+                    <input type="text" name="title">
+                </div>
+                <div class="input-wrapper">
+                    <label for="category">Categoria</label>
+                    <input type="text" name="category">
+                </div>
+                <div class="input-wrapper">
+                    <label for="image">Link da imagem</label>
+                    <input type="url" name="image">
+                </div>
+                <div class="input-wrapper">
+                    <label for="description">Digite uma descrição para essa ideia</label>
+                    <textarea name="description" id="" cols="30" rows="10"></textarea>
+                </div>
+                <div class="input-wrapper">
+                    <label for="link">Link da ideia</label>
+                    <input type="url" name="link">
+                </div>
+                <a href="#" onclick="onOff()">Voltar</a>
+                <button>Salvar</button>
+            </form>
+        </div>
     </div>
   <script src="scripts.js"></script>
     </body>
